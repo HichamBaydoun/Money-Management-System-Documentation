@@ -1,5 +1,5 @@
 # Money-Management-System-Documentation
-This is a documentation of a money management system was divided into phases.\.
+This is a documentation of a money management system was divided into phases.\
 The documentation includes:
 - A brief description
 
