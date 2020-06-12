@@ -1,5 +1,5 @@
 # Money-Management-System-Documentation
-This documentation includes phases of a money management system development that was a project for my Software Engineering Course.
+This is a documentation for a money management system that was a project for my Software Engineering Course.
 The documentation includes:
 - A brief description
 
